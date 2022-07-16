@@ -6,6 +6,7 @@ public class MyTest {
 	{
 	  System.out.println("Hello java");
 	  System.out.println("First GIT Java");
+	  System.out.println("second java git");
 
 	}
 
